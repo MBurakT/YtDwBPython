@@ -1,0 +1,5 @@
+print("Hi \"Python\"")
+print('Hi \'Python\'')
+print("Path: C:\\Users\\Baraa")
+print("Message1\nMessage2")
+print("Message1\tMessage2")
